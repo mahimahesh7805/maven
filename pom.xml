@@ -65,7 +65,7 @@
     <snapshotRepository>
       <id>deployment</id>
 	  <name> snapshot relase </name>
-      <url>http://34.125.13.181:8081/nexus/content/repositories/snapshots/</url>
+      <url>http://34.125.13.181:8081/repository/maven-snapshots//</url>
     </snapshotRepository>
   </distributionManagement>
 
